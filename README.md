@@ -34,14 +34,6 @@ This dataset can be used for:
 2. **Load the dataset**: Use Python (Pandas) or any database tool to import and analyze the data.
 3. **Filter and Explore**: Use queries or scripts to find places based on location, category, or popularity.
 
-## Example (Loading with Pandas)
-```python
-import pandas as pd
-
-df = pd.read_csv('travel_dataset.csv')
-print(df.head())
-```
-
 ## Contribution
 Feel free to contribute by adding more places, correcting any errors, or enhancing the dataset with additional information.
 
